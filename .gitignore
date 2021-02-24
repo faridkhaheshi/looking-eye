@@ -1,16 +1,16 @@
 .ipynb_checkpoints
 .vscode
 
-videos
+/videos
 
-people_crops
+/people_crops
 
-people_features
+/people_features
 
-dnn_models
+/dnn_models
 
-images
-people_crops
-people_features
-person_reID_models
-torchreid_models
+/images
+/people_crops
+/people_features
+/person_reID_models
+/torchreid_models
